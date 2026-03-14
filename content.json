@@ -1,0 +1,2528 @@
+{
+  "Links": [],
+  "RequestedObject": {
+    "Id": 348575,
+    "LevelId": 62,
+    "SequentialId": 6,
+    "FieldContents": {
+      "2260": {
+        "Value": 6,
+        "Type": 6,
+        "FieldId": 2260,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2261": {
+        "Type": 1,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 2261,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2262": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 2262,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2264": {
+        "Type": 1,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 2264,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2265": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "<p>During testing, it was determined that this control is considered not in place.</p>",
+        "FieldId": 2265,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2266": {
+        "Type": 27,
+        "Value": null,
+        "FieldId": 2266,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2267": {
+        "Type": 27,
+        "Value": null,
+        "FieldId": 2267,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2268": {
+        "Type": 27,
+        "Value": null,
+        "FieldId": 2268,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2269": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            1660
+          ],
+          "OtherText": null
+        },
+        "FieldId": 2269,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2270": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "Test",
+        "FieldId": 2270,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": "2025-09-28T14:07:47.977",
+          "CreateLogin": null,
+          "UpdateLogin": 1219
+        }
+      },
+      "2271": {
+        "Type": 25,
+        "Value": null,
+        "FieldId": 2271,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2272": {
+        "Type": 2,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 2272,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2273": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 2273,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2275": {
+        "Value": "2023-10-17T16:52:01.837",
+        "Type": 21,
+        "FieldId": 2275,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2276": {
+        "Value": "2025-09-28T14:07:47.977",
+        "Type": 22,
+        "FieldId": 2276,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2277": {
+        "Type": 2,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 2277,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2278": {
+        "Type": 2,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 2278,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2543": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 2543,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2548": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 2548,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2588": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 2588,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2655": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 2655,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2668": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 2668,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "2670": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "Control found to be not in place - updated",
+        "FieldId": 2670,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": "2025-09-13T14:35:17.507",
+          "CreateLogin": null,
+          "UpdateLogin": 2
+        }
+      },
+      "2671": {
+        "Type": 8,
+        "Value": {
+          "UserList": [
+            {
+              "Id": 2,
+              "HasRead": true,
+              "HasUpdate": true,
+              "HasDelete": false
+            }
+          ],
+          "GroupList": []
+        },
+        "FieldId": 2671,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": "2025-08-09T18:11:23.277",
+          "CreateLogin": null,
+          "UpdateLogin": 2
+        }
+      },
+      "2967": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            2401
+          ],
+          "OtherText": null
+        },
+        "FieldId": 2967,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": "2023-10-17T16:54:43.673",
+          "CreateLogin": null,
+          "UpdateLogin": 1209
+        }
+      },
+      "3131": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 3131,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "3139": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 3139,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "3149": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 3149,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "3284": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 3284,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4022": {
+        "Type": 1,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 4022,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4023": {
+        "Type": 3,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 4023,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4024": {
+        "Type": 3,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 4024,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4797": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 4797,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4802": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 4802,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4807": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 4807,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4825": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            4102
+          ],
+          "OtherText": null
+        },
+        "FieldId": 4825,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": "2023-10-17T16:54:43.673",
+          "CreateLogin": null,
+          "UpdateLogin": 1209
+        }
+      },
+      "4828": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            729
+          ],
+          "OtherText": null
+        },
+        "FieldId": 4828,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4829": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            5033
+          ],
+          "OtherText": null
+        },
+        "FieldId": 4829,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": "2025-09-07T14:44:47.137",
+          "CreateLogin": null,
+          "UpdateLogin": 2
+        }
+      },
+      "4836": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 4836,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4860": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            73978
+          ],
+          "OtherText": null
+        },
+        "FieldId": 4860,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4976": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 4976,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4979": {
+        "Type": 3,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 4979,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4980": {
+        "Type": 3,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 4980,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "4988": {
+        "Type": 8,
+        "Value": {
+          "UserList": [
+            {
+              "Id": 1209,
+              "HasRead": true,
+              "HasUpdate": true,
+              "HasDelete": false
+            }
+          ],
+          "GroupList": [
+            {
+              "Id": 54,
+              "HasRead": true,
+              "HasUpdate": true,
+              "HasDelete": true
+            },
+            {
+              "Id": 55,
+              "HasRead": true,
+              "HasUpdate": false,
+              "HasDelete": false
+            }
+          ]
+        },
+        "FieldId": 4988,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": "2025-09-07T14:44:47.137",
+          "CreateLogin": null,
+          "UpdateLogin": 2
+        }
+      },
+      "5139": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 5139,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "5626": {
+        "Type": 1,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 5626,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "6880": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 6880,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "7067": {
+        "Type": 1,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 7067,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "7068": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            6198
+          ],
+          "OtherText": null
+        },
+        "FieldId": 7068,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": "2025-09-07T14:44:47.137",
+          "CreateLogin": null,
+          "UpdateLogin": 2
+        }
+      },
+      "7526": {
+        "Value": 2,
+        "Type": 20,
+        "FieldId": 7526,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "7587": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 7587,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "7602": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 7602,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "7603": {
+        "Type": 3,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 7603,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "7863": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            74072
+          ],
+          "OtherText": null
+        },
+        "FieldId": 7863,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "7947": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 7947,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "8156": {
+        "Type": 1,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 8156,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "8311": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 8311,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "8416": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 8416,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "8421": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 8421,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "8483": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 8483,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "8488": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 8488,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "8566": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 8566,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "9732": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 9732,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "9790": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 9790,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "9921": {
+        "Type": 4,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 9921,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "10642": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 10642,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "11132": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 11132,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "11134": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 11134,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "11199": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 11199,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "11224": {
+        "Type": 3,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 11224,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "11720": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 11720,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "11772": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "Medium",
+        "FieldId": 11772,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "11881": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 11881,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "11883": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 11883,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "11976": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 11976,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "12002": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 12002,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "12374": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 12374,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "12563": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 12563,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "13404": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 13404,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "13700": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 13700,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "13859": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 13859,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "13870": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            729
+          ],
+          "OtherText": null
+        },
+        "FieldId": 13870,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "14232": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 14232,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "14244": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 14244,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "14588": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 14588,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "14695": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 14695,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "14899": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 14899,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "14987": {
+        "Type": 2,
+        "IsError": false,
+        "Value": 0,
+        "FieldId": 14987,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "14988": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            65247
+          ],
+          "OtherText": null
+        },
+        "FieldId": 14988,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "14989": {
+        "Type": 1,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 14989,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "14992": {
+        "Type": 2,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 14992,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "15183": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 15183,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "15346": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 15346,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "15488": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 15488,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "15594": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 15594,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "15816": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 15816,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "15818": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 15818,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "15820": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 15820,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "15822": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 15822,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "15900": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 15900,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "16353": {
+        "Type": 4,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 16353,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "16355": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "0",
+        "FieldId": 16355,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "16356": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "0",
+        "FieldId": 16356,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": "2023-10-17T16:54:43.673",
+          "CreateLogin": null,
+          "UpdateLogin": 1209
+        }
+      },
+      "16357": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            66681
+          ],
+          "OtherText": null
+        },
+        "FieldId": 16357,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "16358": {
+        "Type": 8,
+        "Value": {
+          "UserList": [
+            {
+              "Id": 1209,
+              "HasRead": true,
+              "HasUpdate": true,
+              "HasDelete": false
+            }
+          ],
+          "GroupList": []
+        },
+        "FieldId": 16358,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "16360": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 16360,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "16597": {
+        "Type": 11,
+        "Value": null,
+        "FieldId": 16597,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "16608": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 16608,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "16621": {
+        "Type": 4,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 16621,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "16622": {
+        "Type": 4,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 16622,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "16623": {
+        "Type": 1,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 16623,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "16624": {
+        "Type": 4,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 16624,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "16625": {
+        "Type": 1,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 16625,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17033": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 17033,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17082": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 17082,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17246": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 17246,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17266": {
+        "Type": 4,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 17266,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17267": {
+        "Type": 4,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 17267,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17268": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            68421
+          ],
+          "OtherText": null
+        },
+        "FieldId": 17268,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17269": {
+        "Value": 348575,
+        "Type": 6,
+        "FieldId": 17269,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17270": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 17270,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17271": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 17271,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17272": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 17272,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17274": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 17274,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17276": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 17276,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17278": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 17278,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17280": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 17280,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17281": {
+        "Type": 27,
+        "Value": null,
+        "FieldId": 17281,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17515": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 17515,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "17957": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 17957,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18055": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 18055,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18558": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 18558,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18642": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 18642,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18663": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            70874
+          ],
+          "OtherText": null
+        },
+        "FieldId": 18663,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18664": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            70877
+          ],
+          "OtherText": null
+        },
+        "FieldId": 18664,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18665": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "Finding Submission Pending for 6",
+        "FieldId": 18665,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18666": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "The finding 6 needs to be submitted for review",
+        "FieldId": 18666,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18667": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "Finding 6 has been submitted.",
+        "FieldId": 18667,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18668": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "Finding Review Pending for 6",
+        "FieldId": 18668,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18669": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "The finding 6 is awaiting review.",
+        "FieldId": 18669,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18670": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "Finding 6 has been reviewed.",
+        "FieldId": 18670,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18671": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "Finding Resubmission Pending for 6",
+        "FieldId": 18671,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18672": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "The finding 6 needs to be re-submitted for review.",
+        "FieldId": 18672,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18673": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "Finding 6 has been resubmitted.",
+        "FieldId": 18673,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18674": {
+        "Type": 8,
+        "Value": {
+          "UserList": [],
+          "GroupList": [
+            {
+              "Id": 157,
+              "HasRead": true,
+              "HasUpdate": true,
+              "HasDelete": false
+            }
+          ]
+        },
+        "FieldId": 18674,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18675": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 18675,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18676": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 18676,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18681": {
+        "Type": 24,
+        "Value": null,
+        "FieldId": 18681,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18704": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 18704,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18705": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 18705,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18706": {
+        "Type": 3,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 18706,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18707": {
+        "Type": 3,
+        "IsError": false,
+        "Value": null,
+        "FieldId": 18707,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18712": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            70886
+          ],
+          "OtherText": null
+        },
+        "FieldId": 18712,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18713": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            70900
+          ],
+          "OtherText": null
+        },
+        "FieldId": 18713,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": "2023-10-17T16:54:43.673",
+          "CreateLogin": null,
+          "UpdateLogin": 1209
+        }
+      },
+      "18732": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "Finding Closure Pending for 6",
+        "FieldId": 18732,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18733": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "The finding 6 is awaiting closure by audit team.",
+        "FieldId": 18733,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "18734": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "Finding 6 has been closed.",
+        "FieldId": 18734,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19171": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 19171,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19173": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 19173,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19191": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 19191,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19550": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 19550,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19551": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 19551,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19552": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 19552,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19553": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 19553,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19554": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 19554,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19555": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 19555,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19594": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "Assign Finding",
+        "FieldId": 19594,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19595": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            71300
+          ],
+          "OtherText": null
+        },
+        "FieldId": 19595,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19596": {
+        "Type": 2,
+        "IsError": false,
+        "Value": 100,
+        "FieldId": 19596,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19707": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 19707,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19709": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 19709,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "19846": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 19846,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "20025": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 20025,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "20027": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 20027,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "20029": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 20029,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "20031": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 20031,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "20033": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 20033,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "20354": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 20354,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "20382": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 20382,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "20424": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 20424,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "20724": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 20724,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "21004": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 21004,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "21216": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 21216,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "21221": {
+        "Type": 4,
+        "IsError": false,
+        "Value": {
+          "ValuesListIds": [
+            74074
+          ],
+          "OtherText": null
+        },
+        "FieldId": 21221,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "21312": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 21312,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "21960": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 21960,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "21965": {
+        "Type": 8,
+        "Value": null,
+        "FieldId": 21965,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "22339": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 22339,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "22341": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 22341,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "22768": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 22768,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "22774": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 22774,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "23011": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 23011,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "23060": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 23060,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "23424": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 23424,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "23589": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 23589,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "23668": {
+        "Type": 2,
+        "IsError": true,
+        "Value": null,
+        "FieldId": 23668,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "23748": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 23748,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "23837": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 23837,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "24504": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 24504,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "24636": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 24636,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "24699": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 24699,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "24919": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 24919,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "24991": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 24991,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "25066": {
+        "Type": 23,
+        "Value": null,
+        "FieldId": 25066,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      },
+      "25264": {
+        "Type": 1,
+        "IsError": false,
+        "Value": "f856f9acc30c72106063b6fdd401312d",
+        "FieldId": 25264,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": "2025-09-14T14:55:01.77",
+          "CreateLogin": null,
+          "UpdateLogin": 2219
+        }
+      },
+      "25443": {
+        "Type": 9,
+        "Value": null,
+        "FieldId": 25443,
+        "UpdateInformation": {
+          "CreateDate": null,
+          "UpdateDate": null,
+          "CreateLogin": null,
+          "UpdateLogin": null
+        }
+      }
+    },
+    "CheckSum": null,
+    "LastUpdated": "2025-09-28T14:07:47.977",
+    "Version": 14,
+    "Identity": {
+      "BaseContentId": 348575,
+      "Locators": [
+        {
+          "Identity": {
+            "Value": 348575
+          },
+          "Location": {
+            "Alias": "ARCHER"
+          }
+        },
+        {
+          "Identity": {
+            "Value": 348575
+          },
+          "Location": {
+            "Alias": "SYS_REF"
+          }
+        },
+        {
+          "Identity": {
+            "id": "3026:CUST"
+          },
+          "Location": {
+            "Alias": "SYS_WF"
+          }
+        }
+      ]
+    },
+    "UpdateInformation": {
+      "CreateDate": "2023-10-17T16:52:01.837",
+      "UpdateDate": "2025-09-28T14:07:47.977",
+      "CreateLogin": 1209,
+      "UpdateLogin": 1219
+    }
+  },
+  "IsSuccessful": true,
+  "ValidationMessages": []
+}

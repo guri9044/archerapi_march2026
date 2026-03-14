@@ -1,5 +1,5 @@
 Username,Password,FirstName,LastName,Group
-test.user1,Archer@123,Test1,User,65
+test.user41,Archer@123,Test1,User,65/99/187
 test.user2,Archer@123,Test2,User,65
 test.user3,Archer@123,Test3,User,65
 test.user4,Archer@123,Test4,User,65
@@ -7,7 +7,7 @@ test.user5,Archer@123,Test5,User,99
 test.user6,Archer@123,Test6,User,99
 test.user7,Archer@123,Test7,User,99
 test.user8,Archer@123,Test8,User,99
-test.user9,Archer@123,Test9,User,99
+test.user9,Archer@123,Test9,User,99/160
 test.user10,Archer@123,Test10,User,160
 test.user11,Archer@123,Test11,User,160
 test.user12,Archer@123,Test12,User,160

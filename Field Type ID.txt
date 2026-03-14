@@ -1,0 +1,155 @@
+Field Type ID
+
+Field Type
+
+Syntax
+
+1
+
+Text
+
+FieldType.Text
+
+2
+
+Numeric
+
+FieldType.Numeric
+
+3
+
+Date
+
+FieldType.Date
+
+4
+
+Values List
+
+FieldType.ValuesList
+
+6
+
+TrackingID
+
+FieldType.TrackingID
+
+7
+
+External Links
+
+FieldType.ExternalLinks
+
+8
+
+Users/Groups List
+
+FieldType.UsersGroupsList
+
+9
+
+Cross-Reference
+
+FieldType.CrossReference
+
+11
+
+Attachment
+
+FieldType.Attachment
+
+12
+
+Image
+
+FieldType.Image
+
+14
+
+Cross-Application Status Tracking (CAST)
+
+FieldType.CastScoreCard
+
+16
+
+Matrix
+
+FieldType.Matrix
+
+19
+
+IP Address
+
+FieldType.IpAddress
+
+20
+
+Record Status
+
+FieldType.RecordStatus
+
+21
+
+First Published
+
+FieldType.FirstPublishedDate
+
+22
+
+Last Updated Field
+
+FieldType.LastUpdatedField
+
+23
+
+Related Records
+
+FieldType.RelatedRecords
+
+24
+
+Sub-Form
+
+FieldType.SubForm
+
+25
+
+History Log
+
+FieldType.HistoryLog
+
+27
+
+Multiple Reference Display Control
+
+FieldType.MultipleReferenceDisplayControl
+
+28
+
+Questionnaire Reference
+
+FieldType.QuestionnaireReference
+
+29
+
+Access History
+
+FieldType.ContentAccessHistory
+
+30
+
+Voting
+
+FieldType.Voting
+
+31
+
+Scheduler
+
+FieldType.Scheduler
+
+1001
+
+Cross-Application Status Tracking Field Value
+
+FieldType.CrossApplicationStatusTrackingFieldValue

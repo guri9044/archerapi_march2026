@@ -1,0 +1,18 @@
+{
+  "1": "Text",
+  "2": "Numeric",
+  "3": "Date",
+  "4": "Values List",
+  "6": "TrackingID",
+  "7": "External Links",
+  "8": "Users/Groups List",
+  "9": "Cross-Reference",
+  "11": "Attachment",
+  "12": "Image",
+  "14": "Cross-Application Status Tracking (CAST)",
+  "16": "Matrix",
+  "19": "IP Address",
+  "20": "Record Status",
+  "21": "First Published",
+  "22": "Last Updated Field"
+}

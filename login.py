@@ -28,4 +28,10 @@ headers = {
 
 response = requests.get(recordUrl, headers=headers)
 
+contentBody = json.loads(response.text)
+levelId = contentBody["RequestedObject"]["LevelId"]
+
+url = "https://archer-irm.com/Archer/platformapi/core/system/fielddefinition/level/" + str(levelId)
+
+response = requests.get(url, headers=headers)
 print(response.text)
