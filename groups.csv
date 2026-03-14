@@ -1,0 +1,158 @@
+id,name
+1,Everyone
+2,PM: Policy Manager
+16,Policy Management
+17,PM: SME Reviewer
+18,PM: Technical Review
+19,PM: Management Review
+22,PM: SME - Network Security
+23,PM: SME - Legal
+24,Incident Management
+32,Third Party Management
+36,Third Party: Administrator
+38,Risk Management
+39,RM: Admin
+40,RM: Read Only
+41,RM: Owner
+42,RM: Manager
+43,EM: Admin
+44,Enterprise Management
+45,EM: Read Only
+46,EM: Owner
+47,EM: Manager
+50,IM: Admin
+51,IM: Read Only
+52,IM: Owner
+53,IM: Manager
+54,CM: Admin
+55,CM: Read Only
+56,CM: Owner
+57,CM: Manager
+58,Compliance Management
+59,CM: Tester
+63,PM: Communications Review
+65,BCM: Admin
+69,Business Continuity Management
+72,PM: Admin
+73,PM: Read Only
+74,PM: Owner
+75,PM: Manager
+79,ITSVP Management
+80,ITSVP: Admin
+84,Audit Management
+85,Audit Administrator
+87,Audit Lead
+88,Audit Managers
+89,Audit Staff
+90,Audit Business Contacts
+91,ITSVP: Business Management
+92,ITSVP: Executive Management
+93,ITSVP: Analysts
+94,ITSVP: Operations
+96,BCM: BCM Program Team Member
+97,BCM: Executive Management
+98,BCM: Business Process Owner
+99,BCM: Program Leader
+100,ITSVP: Read Only
+101,Third Party: 1st Line of Defense
+102,Third Party: Executive Management
+103,Third Party: External Third Party
+104,Third Party: Legal and Procurement
+105,Third Party: Risk Analysts
+116,Audit Executive Management
+117,External Auditor
+118,Exception Management
+119,SOC: Solution Administrator
+120,SOC: Business Manager
+121,SOC: Legal
+122,SOC: HR
+123,SOC: Compliance/Privacy Officer
+124,SOC: IT Helpdesk
+125,SOC: SOC Manager
+126,SOC: Incident Coordinator
+127,SOC: L2 Incident Handler
+128,SOC: L1 Incident Handler
+130,SOC: CISO/CSO
+133,Cyber Incident & Breach Response
+134,EM: Business 1st Line of Defense
+135,RM: Risk 2nd Line of Defense
+136,CM: Compliance 2nd Line of Defense
+137,Executives
+138,Regulatory Intelligence Reviewer
+139,Regulatory Intelligence Reader
+140,IT Security Risk Management
+141,Asset Catalog Administator
+142,PCI Project Team
+143,PCI Executive Sponsors
+144,PCI Management
+145,PCI Internal Stakeholders
+146,Regulatory and Corporate Compliance
+147,Corporate Obligations Management
+148,BIA: BIA Participant
+149,BIA: BCM Program Lead
+150,Business Impact Analysis
+151,ISMS
+154,Risk Finding Handler
+155,Audit Finding Handler
+156,ITSRM Finding Handler
+157,Other Finding Handler
+158,Issues Management
+159,Crisis Events Finding Handler
+160,BC/DR Testing/Exercise Finding Handler
+161,BCM: Lessons Learned Assessment
+162,Third Party: 2nd Line of Defense
+163,Third Party: Read Only
+164,System: Admin Dashboard
+165,BCM: Crisis Team
+166,DPM: Admin
+167,DPM: Data Admin
+168,DPM: Privacy Team
+169,DPM: Legal Team
+170,DPM: Data Protection Officers
+171,DPM: Data Custodians
+172,DPM: Read Only
+173,DPM: Regulators
+174,Privacy Management
+175,ISMS Admin
+176,ISMS Manager
+177,ISMS Internal Auditor
+178,ISMS External Auditor
+179,ISMS Read Only
+180,ISMS Process/Asset Owner
+181,ISMS Users
+182,FCM: External Audit Resource
+183,FCM: Project Management Office (PMO)
+184,FCM: Process and Control Owner
+185,FCM: Risk and Compliance Specialist
+186,Financial Controls Monitoring
+187,BCM: Products and Services Owner
+188,BCM: Products and Services Manager
+189,IAB - Reviewer
+190,IAB - Approvers
+191,IAB - Requeter
+192,Data Administrator
+193,ABC Bank
+194,ABC Bank Users
+195,ABC Bank Clerks
+196,ABC Bank Managers
+197,OBF Bank Managers
+198,OBF Bank Clerks
+199,OBF Bank Users
+201,OBF Bank Groups
+202,Aadhar
+203,Aadhar Reviewers
+204,Aadhar Approvers
+213,AB Bank
+215,AB Clerks
+216,AB Managers
+217,AB Users
+218,loan user
+219,VISA Enrollment
+220,VISA Approver
+222,VISA-HR
+223,VISA-ITMS Department
+224,VISA- Sales
+225,Bank Group
+226,TPRM_Reviewer
+227,TPRM_Approver
+228,Risk Managers
