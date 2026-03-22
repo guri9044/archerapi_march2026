@@ -1,0 +1,31 @@
+{
+    "archerConfig": {
+        "baseURL": "https://archer-irm.com/Archer",
+        "username": "api.user",
+        "password": "Archer@123",
+        "instance": "t202603"
+    },
+    "servicenowConfig": {
+        "baseURL": "https://dev341823.service-now.com",
+        "username": "admin",
+        "password": "PK1EwV9!yx^q"
+    },
+    "mapping": [
+        {
+            "archerField": "Name",
+            "servicenowField": "name"
+        },
+        {
+            "archerField": "Description",
+            "servicenowField": "description"
+        },
+        {
+            "archerField": "Owner",
+            "servicenowField": "sys_created_by"
+        },
+        {
+            "archerField": "CreatedDate",
+            "servicenowField": "sys_created_on"
+        }
+    ]
+}
