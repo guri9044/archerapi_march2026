@@ -16,7 +16,6 @@ requestHeaders = {
 }
 
 response = requests.post(url, json=requestBody, headers=requestHeaders)
-
 responseBody = json.loads(response.text)
 sessionToken = responseBody["RequestedObject"]["SessionToken"]
 print(sessionToken)

@@ -10,22 +10,65 @@
         "username": "admin",
         "password": "PK1EwV9!yx^q"
     },
+    "sourceApplication": "Findings",
+    "sourceApplicationReportId": "10410",
+    "sourceApplicationLevelId": "62",
+    "targetApplication": "sn_grc_issue",
     "mapping": [
         {
+            "archerField": "ServiceNow_Sys_Id",
+            "archerFieldId": "28786",
+            "servicenowField": "sys_id",
+            "servicenowFieldId": "sys_id",
+            "type": "1"
+        },
+        {
+            "archerField": "Tracking Id",
+            "archerFieldId": "17269",
+            "servicenowField": "Archer IRM Record Id",
+            "servicenowFieldId": "u_archer_irm_record_id",
+            "type": "2"
+        },
+        {
             "archerField": "Name",
-            "servicenowField": "name"
+            "archerFieldId": "2670",
+            "servicenowField": "Name",
+            "servicenowFieldId": "short_description",
+            "type": "1"
         },
         {
             "archerField": "Description",
-            "servicenowField": "description"
+            "archerFieldId": "2265",
+            "servicenowField": "Description",
+            "servicenowFieldId": "description",
+            "type": "1"
         },
         {
-            "archerField": "Owner",
-            "servicenowField": "sys_created_by"
+            "type": "4",
+            "listMapping": {
+                "Compliance": "9690c489730323003aebda013ef6a7e7",
+                "Other": "10b43ee44750cf90a00f44c0806d4329",
+                "Audit": "0d84b6e44750cf90a00f44c0806d43af",
+                "Third Party": "889832ec4790cf90a00f44c0806d43de",
+                "Risk": "4f6b97f6c75200107e299e0703c26031"
+            },
+            "archerField": "Source",
+            "archerFieldId": "4829",
+            "servicenowField": "Issue Source",
+            "servicenowFieldId": "issue_source"
         },
         {
-            "archerField": "CreatedDate",
-            "servicenowField": "sys_created_on"
+            "type": "4",
+            "listMapping": {
+                "Open": "1",
+                "Awaiting Review": "2",
+                "Closed": "3",
+                "Rejected": "4"
+            },
+            "archerField": "Status",
+            "archerFieldId": "2269",
+            "servicenowField": "Status",
+            "servicenowFieldId": "state"
         }
     ]
 }
